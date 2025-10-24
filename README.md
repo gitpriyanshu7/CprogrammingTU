@@ -1,3 +1,3 @@
 # CprogrammingTU
 
-Documenting my coding journey in tezpur univeristy 
+Documenting my coding journey here in tezpur univeristy 
